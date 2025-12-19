@@ -1,247 +1,171 @@
-Ricardo Luna – Product Portfolio
+# Ricardo Luna – Product Portfolio
 
-Senior Product & Delivery Leader with 16+ years of experience in Fintech, Payments, and Digital Platforms across LATAM, leading regulated products, large-scale payment systems, and cross-functional delivery teams.
+Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, Payments, and Digital Platforms** across LATAM, leading regulated products, large-scale payment systems, and cross-functional delivery teams.
 
-Case Studies
-1) Visa – Payment Initiation Service (PIS)
+---
 
-Context: Domestic and cross-border payment initiation platform
-My Role: Lead Product Manager
+## Case Studies
 
-What I Led:
+---
 
-Product vision and roadmap (2024–2025)
+### 1) Visa – Payment Initiation Service (PIS)
 
-Backlog prioritization balancing tech debt, compliance, and expansion
+**Context:** Domestic and cross-border payment initiation platform  
+**My Role:** Lead Product Manager  
 
-Cross-functional alignment across Product, Engineering, Compliance, Operations, UX, and external partners (Visa, NeoNet)
+**What I Led:**
+- Product vision and roadmap (2024–2025)
+- Backlog prioritization balancing tech debt, compliance, and expansion
+- Cross-functional alignment across Product, Engineering, Compliance, Operations, UX, and external partners (Visa, NeoNet)
 
-Teams & Scope:
+**Teams & Scope:**
+- Led **15+ stakeholders** across multiple countries (LATAM)
+- Coordinated backend, API, compliance, and operations teams
 
-Led 15+ stakeholders across multiple countries (LATAM)
+**Key KPIs Owned:**
+- Transaction success rate  
+- Platform availability and incident reduction  
+- Compliance readiness  
+- Cross-border enablement milestones  
 
-Coordinated backend, API, compliance, and operations teams
+**Key Actions:**
+- Prioritized remediation of critical tech debt (cGroups) to mitigate operational risk
+- Sequenced roadmap: platform stability → cross-brand enablement → cross-border MVP
+- Integrated **LLM-assisted workflows** for requirements analysis and backlog refinement
 
-Key KPIs Owned:
+**Impact:**
+- Improved platform reliability and audit readiness
+- Enabled the **first PIS–Visa Direct cross-border route for NeoNet Guatemala**
+- Reduced operational risk tied to legacy dependencies
 
-Transaction success rate
+---
 
-Platform availability & incident reduction
+### 2) Blockchain-based KYC Platform – Brokerage Firm
 
-Compliance readiness
+**Context:** Regulated KYC and identity verification solution  
+**My Role:** Product Lead  
 
-Cross-border enablement milestones
+**What I Led:**
+- End-to-end product delivery from discovery to production
+- Alignment between engineering, compliance, security, and operations
 
-Key Actions:
+**Teams & Scope:**
+- Led **10+ professionals** (Engineering, Compliance, Security, QA, Operations)
 
-Prioritized remediation of critical tech debt (cGroups) to mitigate operational risk
+**Key KPIs Owned:**
+- Fraud detection rate  
+- Manual verification volume  
+- Time-to-approval  
+- Compliance exceptions  
 
-Sequenced roadmap: platform stability → cross-brand enablement → cross-border MVP
+**Impact:**
+- **+8% increase in fraud detection**
+- **-30% reduction in manual verification time**
+- Faster onboarding with zero compliance findings
 
-Integrated LLM-assisted workflows for requirements analysis and backlog refinement
+---
 
-Impact:
+### 3) Fincomún – Digital Payments & Lending
 
-Improved platform reliability and audit readiness
+#### 3.1 SPEI-CoDi Digital Payments
 
-Enabled the first PIS–Visa Direct cross-border route for NeoNet Guatemala
+**Context:** Real-time digital payments under Banxico regulation  
+**My Role:** Product Manager  
 
-Reduced operational risk tied to legacy dependencies
+**Teams & Scope:**
+- Led **8–12 stakeholders** across Engineering, Compliance, Operations, and Marketing
 
-2) Blockchain-based KYC Platform – Brokerage Firm
+**Key KPIs Owned:**
+- App activation rate  
+- Monthly active users (MAU)  
+- Transaction volume  
 
-Context: Regulated KYC and identity verification solution
-My Role: Product Lead
+**Impact:**
+- **+26% increase in app usage**
+- Expansion of regulated digital payments portfolio
 
-What I Led:
+---
 
-End-to-end product delivery from discovery to production
+#### 3.2 Payroll Advance App – Bimbo
 
-Alignment between engineering, compliance, security, and operations
+**Context:** Payroll-based lending mobile application  
+**My Role:** Product Lead  
 
-Teams & Scope:
+**Teams & Scope:**
+- Led **10+ stakeholders** (Engineering, Risk, Operations, UX, Enterprise Client)
 
-Led 10+ professionals (Engineering, Compliance, Security, QA, Ops)
+**Key KPIs Owned:**
+- Onboarding completion rate  
+- Conversion to first loan  
+- Revenue per active user  
 
-Key KPIs Owned:
+**Key Actions:**
+- Identified onboarding friction due to **15-minute worker breaks**
+- Introduced pre-scoring and lightweight activation (biometrics + minimal validation)
 
-Fraud detection rate
+**Impact:**
+- Enabled **20,000+ workers** to onboard without friction
+- **+17% revenue growth** in the first quarter
 
-Manual verification volume
+---
 
-Time-to-approval
+### 4) Broxel – Salario Rosa (Government Program)
 
-Compliance exceptions
+**Context:** Large-scale government mass payments and financial inclusion program  
+**My Role:** Payment Product Manager  
 
-Key Actions:
+**Teams & Scope:**
+- Led **20+ stakeholders** across Product, Operations, Legal, Finance, and Government entities
 
-Designed staged verification flows balancing conversion and fraud prevention
+**Key KPIs Owned:**
+- Payment success rate  
+- Reconciliation accuracy  
+- SLA compliance  
+- Beneficiary activation rate  
 
-Defined acceptance criteria jointly with compliance teams
+**Impact:**
+- Disbursed **MXN 266M bi-monthly** to **110,000+ beneficiaries**
+- Maintained **error-free activation** and audit-ready operations
+- Generated **MXN 9M** in service-related revenue
 
-Coordinated smart contract testing and production rollout
+---
 
-Impact:
+### 5) AI & LLM Automation – Palo IT / Volante / IntellectEU
 
-+8% increase in fraud detection
+**Context:** AI-enabled product delivery and automation  
+**My Role:** Product & Delivery Leader  
 
--30% reduction in manual verification time
+**Key KPIs Owned:**
+- Delivery cycle time  
+- Backlog rework rate  
+- Documentation effort  
+- QA defect leakage  
 
-Faster onboarding with zero compliance findings
+**Impact:**
+- **~40% reduction in manual documentation effort**
+- Faster delivery cycles and clearer backlogs
+- Reduced human error and operational risk
 
-3) Fincomún – Digital Payments & Lending
-3.1 SPEI-CoDi Digital Payments
+---
 
-Context: Real-time digital payments under Banxico regulation
-My Role: Product Manager
-
-What I Led:
-
-Full product lifecycle for SPEI-CoDi launch
-
-Regulatory alignment and go-to-market coordination
-
-Teams & Scope:
-
-Led 8–12 stakeholders across Engineering, Compliance, Ops, Marketing
-
-Key KPIs Owned:
-
-App activation rate
-
-Monthly active users (MAU)
-
-Transaction volume
-
-Impact:
-
-+26% increase in app usage
-
-Expansion of regulated digital payments portfolio
-
-3.2 Payroll Advance App – Bimbo
-
-Context: Payroll-based lending mobile app
-My Role: Product Lead
-
-What I Led:
-
-Discovery, MVP definition, and delivery
-
-Direct collaboration with enterprise client (Bimbo)
-
-Teams & Scope:
-
-Led 10+ stakeholders (Engineering, Risk, Ops, UX, Client)
-
-Key KPIs Owned:
-
-Onboarding completion rate
-
-Conversion to first loan
-
-Revenue per active user
-
-Key Actions:
-
-Identified onboarding friction due to 15-minute worker breaks
-
-Introduced pre-scoring + lightweight activation (biometrics + minimal validation)
-
-Impact:
-
-Enabled 20,000+ workers to onboard without friction
-
-+17% revenue growth in the first quarter
-
-4) Broxel – Salario Rosa (Government Program)
-
-Context: Large-scale government mass payments program
-My Role: Payment Product Manager
-
-What I Led:
-
-Product, operations, and compliance execution for financial inclusion
-
-Teams & Scope:
-
-Led 20+ stakeholders across Product, Ops, Legal, Finance, Government entities
-
-Key KPIs Owned:
-
-Payment success rate
-
-Reconciliation accuracy
-
-SLA compliance
-
-Beneficiary activation rate
-
-Impact:
-
-Disbursed MXN 266M bi-monthly to 110,000+ beneficiaries
-
-Maintained error-free activation and audit-ready operations
-
-Generated MXN 9M in service-related revenue
-
-5) AI & LLM Automation – Palo IT / Volante / IntellectEU
-
-Context: AI-enabled product delivery and automation
-My Role: Product & Delivery Leader
-
-What I Led:
-
-Adoption of LLMs across product and delivery workflows
-
-Teams & Scope:
-
-Enabled PMs, BAs, QA, and Engineering teams across multiple organizations
-
-Key KPIs Owned:
-
-Delivery cycle time
-
-Backlog rework rate
-
-Documentation effort
-
-QA defect leakage
-
-Key Actions:
-
-Automated user story and acceptance criteria generation
-
-Generated test cases from PRs
-
-Continuous backlog refinement using LLM agents
-
-Impact:
-
-~40% reduction in manual documentation effort
-
-Faster delivery cycles and clearer backlogs
-
-Reduced human error and operational risk
-
-Product Philosophy
+## Product Philosophy
 
 I build products that:
+- Drive **adoption, efficiency, and risk reduction**
+- Follow **hypothesis → experiment → learning → iteration**
+- Combine **quantitative KPIs** with **qualitative customer signals**
+- Align **business, technology, operations, compliance, and UX**
 
-Drive adoption, efficiency, and risk reduction
+---
 
-Follow hypothesis → experiment → learning → iteration
+## Why I Use AI as a Product Manager
 
-Combine quantitative KPIs with qualitative customer signals
-
-Align business, technology, operations, compliance, and UX
-
-Why I Use AI as a Product Manager
-
-AI is a force multiplier.
+AI is a **force multiplier**.  
 I use it to remove low-value manual work, accelerate discovery and delivery, and allow teams to focus on strategy, outcomes, and customer impact.
 
-📬 Contact
-Ricardo Luna
-Senior Product & Delivery Leader
+---
+
+**Contact**  
+Ricardo Luna  
+Senior Product & Delivery Leader  
 LinkedIn: https://www.linkedin.com/in/abdulluna/
