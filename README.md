@@ -1,101 +1,69 @@
 Ricardo Luna – Product Portfolio
 
-Principal Product Manager | Payments | Fintech | Digital Platforms
+Senior Product & Delivery Leader with 16+ years of experience in Fintech, Payments, and Digital Platforms across LATAM, leading regulated products, large-scale payment systems, and cross-functional delivery teams.
 
-Senior Product & Transformation Leader with 16+ years of experience leading regulated fintech and payment platforms across LATAM, owning product strategy, KPIs, and cross-functional delivery at scale.
+Case Studies
+1) Visa – Payment Initiation Service (PIS)
 
-📌 Core Expertise
+Context: Domestic and cross-border payment initiation platform
+My Role: Lead Product Manager
 
-Payments & Fintech (PIS, SPEI-CoDi, Cross-Border, Digital Wallets)
+What I Led:
 
-Product Strategy & Roadmaps
+Product vision and roadmap (2024–2025)
 
-Agile Delivery & PMO Governance
+Backlog prioritization balancing tech debt, compliance, and expansion
 
-Compliance-driven Product Design
+Cross-functional alignment across Product, Engineering, Compliance, Operations, UX, and external partners (Visa, NeoNet)
 
-AI & LLM-enabled Product Delivery
+Teams & Scope:
 
-Large-scale Programs & Government Payments
+Led 15+ stakeholders across multiple countries (LATAM)
 
-📂 Case Studies
-1️⃣ Visa – Payment Initiation Service (PIS)
+Coordinated backend, API, compliance, and operations teams
 
-Domain: Payments | Cross-Border | Platform Reliability
-Role: Lead Product Manager
-
-Executive Summary
-
-Owned product strategy and roadmap for Visa’s Payment Initiation Service (PIS), balancing platform reliability, regulatory compliance, and cross-border expansion.
-
-Leadership & Teams
-
-Led 15+ stakeholders across:
-
-Product Management & Business Analysis
-
-Engineering (Backend, APIs, Integrations)
-
-Compliance & Risk
-
-Operations
-
-UX/UI
-
-External partners (Visa, NeoNet)
-
-KPIs Owned
+Key KPIs Owned:
 
 Transaction success rate
 
-Platform availability & incident rate
+Platform availability & incident reduction
 
 Compliance readiness
 
-Cross-border route enablement
+Cross-border enablement milestones
 
-Product adoption
+Key Actions:
 
-Key Decisions
+Prioritized remediation of critical tech debt (cGroups) to mitigate operational risk
 
-Prioritized critical tech debt remediation (cGroups) to reduce operational risk.
+Sequenced roadmap: platform stability → cross-brand enablement → cross-border MVP
 
-Sequenced roadmap: domestic stabilization → cross-brand enablement → cross-border MVP.
+Integrated LLM-assisted workflows for requirements analysis and backlog refinement
 
-Introduced LLM-assisted workflows for backlog refinement and requirements analysis.
+Impact:
 
-Impact
+Improved platform reliability and audit readiness
 
-Increased platform reliability and audit readiness.
+Enabled the first PIS–Visa Direct cross-border route for NeoNet Guatemala
 
-Enabled first PIS–Visa Direct cross-border route for NeoNet Guatemala.
+Reduced operational risk tied to legacy dependencies
 
-Reduced operational incidents linked to legacy dependencies.
+2) Blockchain-based KYC Platform – Brokerage Firm
 
-2️⃣ Blockchain-based KYC Platform – Brokerage Firm
+Context: Regulated KYC and identity verification solution
+My Role: Product Lead
 
-Domain: KYC | Compliance | Fraud Prevention
-Role: Product Lead
+What I Led:
 
-Executive Summary
+End-to-end product delivery from discovery to production
 
-Led end-to-end delivery of a blockchain-based KYC platform in a regulated financial environment.
+Alignment between engineering, compliance, security, and operations
 
-Leadership & Teams
+Teams & Scope:
 
-Led 10+ professionals across:
+Led 10+ professionals (Engineering, Compliance, Security, QA, Ops)
 
-Engineering (Blockchain & Backend)
-
-Compliance & Legal
-
-Security
-
-QA
-
-Operations
-
-KPIs Owned
+Key KPIs Owned:
 
 Fraud detection rate
 
@@ -105,41 +73,39 @@ Time-to-approval
 
 Compliance exceptions
 
-Key Decisions
+Key Actions:
 
-Designed staged verification to balance fraud prevention vs onboarding speed.
+Designed staged verification flows balancing conversion and fraud prevention
 
-Defined acceptance criteria jointly with compliance teams.
+Defined acceptance criteria jointly with compliance teams
 
-Coordinated smart contract testing and deployment.
+Coordinated smart contract testing and production rollout
 
-Impact
+Impact:
 
-+8% improvement in fraud detection
++8% increase in fraud detection
 
 -30% reduction in manual verification time
 
 Faster onboarding with zero compliance findings
 
-3️⃣ Fincomún – Digital Payments & Lending
+3) Fincomún – Digital Payments & Lending
 3.1 SPEI-CoDi Digital Payments
 
-Domain: Real-Time Payments | Banking Regulation
-Role: Product Manager
+Context: Real-time digital payments under Banxico regulation
+My Role: Product Manager
 
-Leadership & Teams
+What I Led:
 
-Led 8–12 stakeholders across:
+Full product lifecycle for SPEI-CoDi launch
 
-Engineering
+Regulatory alignment and go-to-market coordination
 
-Compliance (Banxico)
+Teams & Scope:
 
-Operations
+Led 8–12 stakeholders across Engineering, Compliance, Ops, Marketing
 
-Marketing
-
-KPIs Owned
+Key KPIs Owned:
 
 App activation rate
 
@@ -147,34 +113,28 @@ Monthly active users (MAU)
 
 Transaction volume
 
-Payment adoption rate
+Impact:
 
-Impact
++26% increase in app usage
 
-+26% increase in app usage post-launch
-
-Expanded regulated digital payment portfolio
+Expansion of regulated digital payments portfolio
 
 3.2 Payroll Advance App – Bimbo
 
-Domain: Payroll Lending | Mobile Onboarding
-Role: Product Lead
+Context: Payroll-based lending mobile app
+My Role: Product Lead
 
-Leadership & Teams
+What I Led:
 
-Led 10+ stakeholders across:
+Discovery, MVP definition, and delivery
 
-Engineering
+Direct collaboration with enterprise client (Bimbo)
 
-Risk & Credit
+Teams & Scope:
 
-Operations
+Led 10+ stakeholders (Engineering, Risk, Ops, UX, Client)
 
-UX/UI
-
-Client stakeholders (Bimbo)
-
-KPIs Owned
+Key KPIs Owned:
 
 Onboarding completion rate
 
@@ -182,103 +142,89 @@ Conversion to first loan
 
 Revenue per active user
 
-Time-to-cash
+Key Actions:
 
-Key Decisions
+Identified onboarding friction due to 15-minute worker breaks
 
-Identified onboarding friction due to 15-minute worker breaks.
+Introduced pre-scoring + lightweight activation (biometrics + minimal validation)
 
-Replaced long onboarding with pre-scoring + lightweight activation (biometrics + minimal validation).
+Impact:
 
-Impact
-
-Enabled 20,000+ workers to onboard frictionlessly
+Enabled 20,000+ workers to onboard without friction
 
 +17% revenue growth in the first quarter
 
-4️⃣ Broxel – Salario Rosa (Government Program)
+4) Broxel – Salario Rosa (Government Program)
 
-Domain: Mass Payments | Financial Inclusion
-Role: Payment Product Manager
+Context: Large-scale government mass payments program
+My Role: Payment Product Manager
 
-Executive Summary
+What I Led:
 
-Owned product and operational execution of a large-scale government payments program.
+Product, operations, and compliance execution for financial inclusion
 
-Leadership & Teams
+Teams & Scope:
 
-Led 20+ stakeholders across:
+Led 20+ stakeholders across Product, Ops, Legal, Finance, Government entities
 
-Product
-
-Operations
-
-Compliance & Legal
-
-Finance
-
-Government entities
-
-Customer support
-
-KPIs Owned
+Key KPIs Owned:
 
 Payment success rate
 
 Reconciliation accuracy
 
-Incident rate
-
 SLA compliance
 
 Beneficiary activation rate
 
-Impact
+Impact:
 
 Disbursed MXN 266M bi-monthly to 110,000+ beneficiaries
 
-Maintained error-free activation and audited stability
+Maintained error-free activation and audit-ready operations
 
 Generated MXN 9M in service-related revenue
 
-5️⃣ AI & LLM Automation – Palo IT / Volante / IntellectEU
+5) AI & LLM Automation – Palo IT / Volante / IntellectEU
 
-Domain: AI Enablement | Product Delivery
-Role: Product & Delivery Leader
+Context: AI-enabled product delivery and automation
+My Role: Product & Delivery Leader
 
-Leadership & Teams
+What I Led:
 
-Enabled multiple product teams (PMs, BAs, QA, Devs) across three organizations.
+Adoption of LLMs across product and delivery workflows
 
-KPIs Owned
+Teams & Scope:
+
+Enabled PMs, BAs, QA, and Engineering teams across multiple organizations
+
+Key KPIs Owned:
 
 Delivery cycle time
 
-Backlog clarity & rework rate
+Backlog rework rate
 
 Documentation effort
 
 QA defect leakage
 
-Key Decisions
+Key Actions:
 
-Implemented LLM-driven automation for:
+Automated user story and acceptance criteria generation
 
-User story & acceptance criteria generation
+Generated test cases from PRs
 
-Test case generation from PRs
+Continuous backlog refinement using LLM agents
 
-Backlog refinement & documentation
-
-Impact
+Impact:
 
 ~40% reduction in manual documentation effort
 
-Faster delivery cycles with clearer backlogs
+Faster delivery cycles and clearer backlogs
 
-Reduced operational risk and human error
+Reduced human error and operational risk
 
-🧠 Product Philosophy
+Product Philosophy
 
 I build products that:
 
@@ -286,16 +232,16 @@ Drive adoption, efficiency, and risk reduction
 
 Follow hypothesis → experiment → learning → iteration
 
-Balance quantitative KPIs with qualitative user signals
+Combine quantitative KPIs with qualitative customer signals
 
-Unite business, technology, operations, compliance, and UX
+Align business, technology, operations, compliance, and UX
 
-🤖 Why I Use AI as a Product Manager
+Why I Use AI as a Product Manager
 
-AI is not a replacement for judgment—it’s a force multiplier.
-I use AI to eliminate low-value manual work, accelerate discovery and delivery, and allow teams to focus on strategy, outcomes, and customer impact.
+AI is a force multiplier.
+I use it to remove low-value manual work, accelerate discovery and delivery, and allow teams to focus on strategy, outcomes, and customer impact.
 
 📬 Contact
 Ricardo Luna
-Senior Product & Transformation Leader
+Senior Product & Delivery Leader
 LinkedIn: https://www.linkedin.com/in/abdulluna/
