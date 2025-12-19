@@ -19,7 +19,7 @@ Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, 
 - Cross-functional alignment across Product, Engineering, Compliance, Operations, UX, and external partners (Visa, NeoNet)
 
 **Teams & Scope:**
-- Led **15+ stakeholders** across multiple countries (LATAM)
+- Led **5+ stakeholders** across multiple countries (LATAM)
 - Coordinated backend, API, compliance, and operations teams
 
 **Key KPIs Owned:**
@@ -35,12 +35,12 @@ Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, 
 
 **Impact:**
 - Improved platform reliability and audit readiness
-- Enabled the **first PIS–Visa Direct cross-border route for NeoNet Guatemala**
+- Enabled the **first PIS–Visa Direct Tx for NeoNet Guatemala**
 - Reduced operational risk tied to legacy dependencies
 
 ---
 
-### 2) Blockchain-based KYC Platform – Brokerage Firm
+### 2) KYC Platform – Brokerage Firm
 
 **Context:** Regulated KYC and identity verification solution  
 **My Role:** Product Lead  
@@ -73,7 +73,7 @@ Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, 
 **My Role:** Product Manager  
 
 **Teams & Scope:**
-- Led **8–12 stakeholders** across Engineering, Compliance, Operations, and Marketing
+- Led **5 stakeholders** across Engineering, Compliance, Operations, and Marketing
 
 **Key KPIs Owned:**
 - App activation rate  
@@ -92,7 +92,7 @@ Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, 
 **My Role:** Product Lead  
 
 **Teams & Scope:**
-- Led **10+ stakeholders** (Engineering, Risk, Operations, UX, Enterprise Client)
+- Led **5+ stakeholders** (Engineering, Risk, Operations, UX, Enterprise Client)
 
 **Key KPIs Owned:**
 - Onboarding completion rate  
@@ -115,7 +115,7 @@ Senior Product & Delivery Leader with **16+ years of experience** in **Fintech, 
 **My Role:** Payment Product Manager  
 
 **Teams & Scope:**
-- Led **20+ stakeholders** across Product, Operations, Legal, Finance, and Government entities
+- Led **5+ stakeholders** across Product, Operations, Legal, Finance, and Government entities
 
 **Key KPIs Owned:**
 - Payment success rate  
